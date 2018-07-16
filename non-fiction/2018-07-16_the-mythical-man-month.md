@@ -1,0 +1,13 @@
+# The Mythical Man-Month
+This is a classic book among programmers: essentially it says that building software is a task that can't be parallelized very efficiently, meaning that adding more people to a project has serious diminishing returns for time completion.
+It is also the source of the humourous "Brooks's Law": _adding manpower to a late software project makes it later_. This is because it takes a long time to train new people, and it takes time for the people to communicate amongst themselves in order to ensure that they are building a coherent product.
+This is why software building is fundamentally difficult to parallelize.
+
+That is the well-known part of the book (essentially chapter 2). The rest of the book has some other interesting things, mostly tips/tricks/ideas of how to run software projects better. Here are a few that I found interesting:
+- The _second system effect_: engineers make a lot of mistakes when building their first software system. So when they start their second, they think "I know so much now! I can avoid all the problems I had before". But this mindset typically tends to go to far, and people make their second system _too_ perfect. By too perfect, I mean they load it with features that might be unnecessary, and spend too much time elegantly solving small problems that aren't really that important to the grand scheme of things. An example he gave in the book was writing a huge amount of code to elegantly handle having a 366 day year during a leap year. 
+- Architects don't touch implementation: if you are the software architect, you must be prepared to suggest a way of implementing your design, but must never stipulate _the_ way to implement it. Otherwise this takes away the fun from implementation, and the junior engineers will resent you.
+- Status reviews: in a large projects, managers aren't really incentivized to report delays to their superiors, since it makes them look bad. These delays can then accumulate, and suddenly force those superiors to take broad, sweeping actions. This can be avoided if managers are willing to have "status only" meetings, where they listen to the status but promise not to take any actions, as not to undermine the managers. This seemed like a really good idea to me.
+- _Build systems twice, since you will end up throwing away the first version anyways_: this rings very true to me. I would say you can typically reuse part of the first system, but most likely it will have to be built twice whether you intend to or not, so you might as well intend to.
+- Building software is largely limited by conceptual work and debugging, not the actual coding.
+
+Overall, the book was a bit dated, but did contain a lot of useful info. I would recommend it.

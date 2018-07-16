@@ -1,5 +1,4 @@
 # The Computer and the Brain
-## Finished 2018-07-01
 This is a short work completed by Von Neumann before he died, intended to be used as his Silliman lectures at Yale University, but he died before he could give them. 
 Essentially he gives a review of computation at the time, and a little bit about neuroscience, where he compares the signals in the brain to the signals in a computer. 
 The work is unfinished, so there isn't a definitive conclusion, but the tone of the work implies that a computer can be built that could function as the human brain.
