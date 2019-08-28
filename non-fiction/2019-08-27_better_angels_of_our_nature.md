@@ -34,7 +34,6 @@ These criticisms largely come from reading criticisms of the book on Wikipedia.
  (since the book is clearly aimed at people who don't understand the statistics),
  and people will probably default to believing if a credible-seeming scientists presents them with a bunch of data and charts that they don't understand.
  I pretty much believed it without question too until I read the paper linked above.
-
  In fairness, I feel that Pinker does take the time to point out
  that his analysis is not simply _doing the stats and accepting
  what it tells him_ (because the data isn't good enough for this
@@ -42,6 +41,7 @@ These criticisms largely come from reading criticisms of the book on Wikipedia.
  but that he has a theory, tries to look at stats, and at the very
  least the stats don't seem to show the opposite trend
  (even though you might not be able to reject the null hypothesis).
+ So he isn't going too far with his shaky stats.
 2. It is clearly written for an American leftist and nobody else.
  There are so many references to specifically the American leftist  values and movements,
  it felt like the book's subtext was "being on the left puts
