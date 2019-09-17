@@ -1,4 +1,5 @@
-# The Better Angels of Our Nature, by Steven Pinker
+# The Better Angels of Our Nature
+## Steven Pinker
 
 Link to book: https://www.amazon.com/Better-Angels-Our-Nature-Violence/dp/0143122010
 

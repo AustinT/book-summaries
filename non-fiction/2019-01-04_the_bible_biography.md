@@ -1,4 +1,5 @@
-# The Bible: A Biography, by Karen Armstrong
+# The Bible: A Biography
+## Karen Armstrong
 
 Link to book: https://www.goodreads.com/book/show/520771.The_Bible
 
