@@ -13,7 +13,7 @@ Without going into the arguments, here are the points the book makes:
  "merely conscious" beings. It is difficult to defend the principle
  that human life is "uniquely and innately valuable",
  which is the origin of many people's view on killing.
-5. We should reconsider our treatment of animals,
+5. We should reconsider our treatment of animals;
  in particular factory farming is unnecessarily cruel.
 6. Abortion should be allowed since the fetus is not a full person
 7. Euthanasia should be allowed, especially voluntary euthanasia,
@@ -267,6 +267,6 @@ there would be no negative consequences for others,
 so a strictly utilitarian calculation might condone the murder.
 But, if utilitarianism is simply used to create moral rules
 which are followed intuitively, then the doctor is not
-burdened by having to do this calculation,
+burdened by having to do this calculation with every patient,
 and can instead simply choose not to murder without worrying
 that it is unethical, while still being a utilitarian.
