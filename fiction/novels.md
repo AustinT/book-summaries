@@ -8,3 +8,8 @@ Overall would recommend.
 
 # 2019-05-27: The Man in the High Castle
 Interesting book; made me want to learn about the I Ching (a Chinese divination book).
+
+# 2020-05-25 Angela's Ashes
+
+Very sad but moving book. Made me realize how lucky I was in my childhood not
+to grow up in poverty.
