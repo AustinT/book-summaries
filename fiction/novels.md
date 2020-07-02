@@ -13,3 +13,7 @@ Interesting book; made me want to learn about the I Ching (a Chinese divination 
 
 Very sad but moving book. Made me realize how lucky I was in my childhood not
 to grow up in poverty.
+
+# 2020-07-01 The Handmaid's Tale
+
+Very gripping novel. It definitely lived up to its fame.
