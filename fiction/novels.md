@@ -17,3 +17,13 @@ to grow up in poverty.
 # 2020-07-01 The Handmaid's Tale
 
 Very gripping novel. It definitely lived up to its fame.
+
+# 2020-12-26 Remembrance of Earth's Past trilogy
+
+Also known as "The Three-Body Problem" after the first book. This trilogy was
+amazing: it really reminded me of the difficulties of international cooperation
+and how human tendencies and values can get in the way of what's best for the
+human race. I think this book raises a lot of interesting philosophical
+questions in addition to being very well-written. I would definitely recommend
+this trilogy!
+
