@@ -27,3 +27,9 @@ human race. I think this book raises a lot of interesting philosophical
 questions in addition to being very well-written. I would definitely recommend
 this trilogy!
 
+# 2021-02-12 The Great Gatsby
+
+An interesting book, but to me it didn't live up to my expectations given that
+it is considered to be an American classic. The whole plot seemed a bit mundane
+to me.
+
