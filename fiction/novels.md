@@ -33,3 +33,8 @@ An interesting book, but to me it didn't live up to my expectations given that
 it is considered to be an American classic. The whole plot seemed a bit mundane
 to me.
 
+# 2021-02-27: The Call of the Wild
+
+Surprisingly good short book. It was the first "animal fiction" book I've read.
+I think the presentation of the mind of a dog was really well done. I would
+recommend reading this book.
