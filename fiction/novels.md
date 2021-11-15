@@ -38,3 +38,10 @@ to me.
 Surprisingly good short book. It was the first "animal fiction" book I've read.
 I think the presentation of the mind of a dog was really well done. I would
 recommend reading this book.
+
+# 2021-10-15: Harry Potter and the Methods of Rationality
+
+A Harry Potter fan-fiction which was surprisingly captivating and had a lot of
+nice tidbits of philosophy of science, and about inconsistencies or weird
+aspects of J.K. Rowling's description of the wizarding world. And it was quite
+funny! Overall I'd highly recommend reading it.
