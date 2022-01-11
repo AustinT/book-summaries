@@ -45,3 +45,8 @@ A Harry Potter fan-fiction which was surprisingly captivating and had a lot of
 nice tidbits of philosophy of science, and about inconsistencies or weird
 aspects of J.K. Rowling's description of the wizarding world. And it was quite
 funny! Overall I'd highly recommend reading it.
+
+# 2022-01-10: Dune
+
+A good sci-fi novel, which took me by surprise since there wasn't a huge focus
+on technology. Still, I would recommend it!
