@@ -50,3 +50,8 @@ funny! Overall I'd highly recommend reading it.
 
 A good sci-fi novel, which took me by surprise since there wasn't a huge focus
 on technology. Still, I would recommend it!
+
+# 2023-03-09: A Gentleman in Moscow
+
+A unique but gripping novel about a man confined to a hotel in Soviet Moscow.
+Would highly recommend.
