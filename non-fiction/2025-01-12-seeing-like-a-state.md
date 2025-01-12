@@ -65,3 +65,9 @@ sure what to make of the experience: I enjoyed the convenience, but found it
 difficult to pay as close attention to the book as when I normally read print
 books.
 
+PS: I also thought he was unfairly critical of Esperanto. It didn't fail
+because it was a "planned language where the designer didn't try to add any
+culture into the language". Esperanto was always going to be a huge
+international project whose adoption would take effort, and that just never
+happened, especially as the dominance of the US became clear and English could
+serve as a _lingua franca_.
