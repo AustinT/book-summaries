@@ -55,3 +55,11 @@ on technology. Still, I would recommend it!
 
 A unique but gripping novel about a man confined to a hotel in Soviet Moscow.
 Would highly recommend.
+
+# 2025-06-01: Anna Karenina
+
+A bit of a difficult read because of the long section in the middle about
+Russian peasants' attitudes towards farming. Aside from that, this was a good
+book, and contained a lot of good insights into relationships, even if it was a
+bit slow at times. Overall I would recommend it, but I don't see why people
+call this "the greatest book of all time".
