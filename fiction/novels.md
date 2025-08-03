@@ -63,3 +63,10 @@ Russian peasants' attitudes towards farming. Aside from that, this was a good
 book, and contained a lot of good insights into relationships, even if it was a
 bit slow at times. Overall I would recommend it, but I don't see why people
 call this "the greatest book of all time".
+
+# 2025-08-02 The Diamond Age
+
+Overall a good book. I found the different kinds of social organizations
+("phyles") very interesting. The future it describes seems a bit implausible
+(nanotechnology but very limited AI), but to be fair this was written 30 years
+ago.
