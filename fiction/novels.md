@@ -70,3 +70,15 @@ Overall a good book. I found the different kinds of social organizations
 ("phyles") very interesting. The future it describes seems a bit implausible
 (nanotechnology but very limited AI), but to be fair this was written 30 years
 ago.
+
+# 2025-10-14 The Dispossessed
+
+By Ursula K. Le Guin
+
+Overall very interesting book, less "scifi" and more "political fiction" in my
+opinion, most of the book discusses the workings of an anarchist/communist
+society. I found its "outside view" of capitalist society especially
+interesting. In this society people seem compelled to work hard, not by
+coercion or risk of starvation, but seeing work as necessary for the
+functioning of a society. This sounded very ideal (although the society is far
+from ideal in many other aspects).
