@@ -82,3 +82,10 @@ interesting. In this society people seem compelled to work hard, not by
 coercion or risk of starvation, but seeing work as necessary for the
 functioning of a society. This sounded very ideal (although the society is far
 from ideal in many other aspects).
+
+# 2025-11-30 Katabasis
+
+By RF Kuang
+
+Enjoyable book, I appreciated all the Cambridge references. Thankfully my own
+PhD experience was much better than that of the novel.
