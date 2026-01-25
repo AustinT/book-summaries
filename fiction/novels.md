@@ -89,3 +89,11 @@ By RF Kuang
 
 Enjoyable book, I appreciated all the Cambridge references. Thankfully my own
 PhD experience was much better than that of the novel.
+
+# 2026-01-24 Snow Crash
+
+By Neal Stephenson
+
+Fun book, similar to "The Diamond Age" but a bit more of an adventure novel. I
+read it because I heard it had a really prescient description of the
+"metaverse" and it didn't disappoint on that front!
